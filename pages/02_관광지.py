@@ -74,12 +74,3 @@ st.caption("Data sources: Korea tourism sites, TripAdvisor and travel guides (us
 
 # Footer: small tips
 st.info("Tip: click a marker on the map to open a popup, or use the sidebar to focus the map. 즐거운 여행 되세요! ✈️🇰🇷")
-
-
-# Requirements text (for convenience, duplicated in requirements.txt file when you deploy)
-# requirements.txt contents:
-# streamlit
-# folium
-# streamlit-folium
-
-# End of file
